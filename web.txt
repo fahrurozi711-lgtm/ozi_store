@@ -1,0 +1,151 @@
+INFORMASI PLATFORM atau Website
+Ozi Store adalah marketplace produk digital terkemuka yang dirancang sebagai ekosistem komprehensif bagi kreator konten, profesional IT, desainer, dan pelajar untuk bertransaksi aset digital berkualitas. Platform ini berfokus pada penyediaan infrastruktur yang memudahkan distribusi karya digital secara efisien kepada target pengguna yang memerlukan solusi praktis dan instan untuk kebutuhan profesional maupun edukasi.
+
+Platform ini berfungsi sebagai perantara yang aman antara penyedia produk digital dan konsumen. Melalui sistem otomatisasi yang canggih, pengguna dapat menjelajahi berbagai kategori produk, melakukan transaksi secara real-time, dan mendapatkan akses langsung ke aset yang dibeli tanpa hambatan operasional manual yang rumit.
+
+VISI
+Menjadi ekosistem produk digital paling tepercaya dan inovatif yang mampu memberdayakan potensi ekonomi digital masyarakat dengan menyediakan akses tanpa batas terhadap aset berkualitas tinggi serta mendukung perkembangan industri kreatif nasional secara berkelanjutan.
+
+MISI
+Menyediakan kurasi produk digital berkualitas tinggi yang relevan dengan kebutuhan pasar modern.
+
+Memberikan dukungan infrastruktur digital yang mumpuni bagi para kreator untuk mendistribusikan karya mereka secara profesional.
+
+Memberikan kemudahan akses bagi pengguna melalui antarmuka yang intuitif dan proses navigasi yang sederhana.
+
+Menjamin keamanan serta kenyamanan transaksi melalui sistem verifikasi otomatis yang terintegrasi.
+
+FITUR PAYMENT GATEWAY
+Platform menggunakan sistem payment gateway terintegrasi yang berfungsi sebagai gerbang utama pemrosesan transaksi finansial digital. Sistem ini memungkinkan seluruh proses pembayaran dilakukan secara otomatis tanpa memerlukan verifikasi manual dari staf admin, sehingga efisiensi waktu dapat tercapai baik bagi pembeli maupun platform.
+
+Fungsi utama payment gateway adalah mengenkripsi data sensitif selama transaksi berlangsung untuk memastikan tingkat keamanan yang tinggi. Setelah pengguna melakukan pembayaran, sistem akan melakukan pemindaian dan verifikasi secara real-time. Jika pembayaran divalidasi, sistem akan mengubah status transaksi secara instan menjadi sukses, yang memicu pemberian akses otomatis ke produk digital yang dibeli.
+
+PRODUK DIGITAL
+Kategori produk yang tersedia meliputi:
+
+Ebook: Buku digital dalam format portabel yang berisi materi edukasi, panduan teknis, atau literatur informatif.
+
+Video Course: Materi pembelajaran dalam bentuk rekaman audio visual yang disusun secara sistematis untuk penguasaan keahlian tertentu.
+
+AI Prompt: Rangkaian instruksi terstruktur yang dioptimalkan untuk memandu model kecerdasan buatan dalam menghasilkan output spesifik.
+
+Template Digital: Kerangka kerja siap pakai untuk kebutuhan presentasi, manajemen proyek, atau administrasi bisnis.
+
+Source Code: Kumpulan baris kode pemrograman yang dapat digunakan sebagai basis pengembangan aplikasi atau situs web.
+
+Desain Digital: Aset visual berupa ilustrasi, ikon, atau elemen grafis lainnya untuk kebutuhan kreatif dan pemasaran.
+
+DETAIL PRODUK
+Berikut adalah detail produk digital yang tersedia di platform:
+
+Ebook: Materi teks digital interaktif untuk pembelajaran mandiri. Kisaran harga: Rp25.000 - Rp150.000. Model akses: Download file.
+
+Video Course: Seri modul video pembelajaran intensif. Kisaran harga: Rp99.000 - Rp500.000. Model akses: Akses online melalui dashboard.
+
+AI Prompt: Koleksi perintah cerdas untuk produktivitas AI. Kisaran harga: Rp15.000 - Rp75.000. Model akses: Salin teks atau download dokumen.
+
+Template Digital: File kerja siap pakai untuk berbagai perangkat lunak. Kisaran harga: Rp35.000 - Rp200.000. Model akses: Download file atau lisensi akses.
+
+Source Code: Skrip pemrograman siap kustomisasi. Kisaran harga: Rp150.000 - Rp2.500.000. Model akses: Download source code dan lisensi pengembangan.
+
+Desain Digital: Elemen visual grafis resolusi tinggi. Kisaran harga: Rp20.000 - Rp300.000. Model akses: Download file aset.
+
+ALUR PENGGUNA & TRANSAKSI
+Pengguna melakukan registrasi akun dengan mengisi data identitas dasar yang diperlukan.
+
+Pengguna melakukan login menggunakan kredensial yang telah didaftarkan untuk mengakses fitur platform.
+
+Pengguna menelusuri katalog dan memilih produk digital yang sesuai dengan kebutuhan.
+
+Pengguna masuk ke halaman checkout untuk melakukan tinjauan akhir atas produk yang dipilih.
+
+Pengguna memilih metode pembayaran dan sistem akan mengarahkan ke gerbang payment gateway.
+
+Pembayaran diproses oleh sistem dan verifikasi otomatis dilakukan dalam hitungan detik setelah dana diterima.
+
+Setelah verifikasi berhasil, akses terhadap produk digital akan terbuka secara otomatis di akun pengguna.
+
+PEMBAYARAN
+Transaksi diproses melalui berbagai metode pembayaran digital seperti transfer bank, uang elektronik, dan saluran pembayaran resmi lainnya yang terhubung dalam sistem.
+
+Setiap transaksi memiliki status pembayaran sebagai berikut:
+
+Pending: Pembayaran telah diajukan namun dana belum diterima atau belum diproses oleh sistem.
+
+Berhasil: Dana telah diterima dan divalidasi oleh sistem payment gateway secara otomatis.
+
+Gagal: Transaksi ditolak oleh sistem karena adanya masalah teknis atau data yang tidak valid.
+
+Kedaluwarsa: Batas waktu pembayaran telah habis sebelum pengguna menyelesaikan proses transaksi.
+
+AKSES & DISTRIBUSI PRODUK DIGITAL
+Setelah transaksi berstatus berhasil, pengguna dapat mengakses produk melalui halaman dashboard pada bagian riwayat pembelian. Distribusi produk dilakukan secara digital baik melalui tautan unduhan langsung maupun akses streaming untuk konten video.
+
+Akses ulang tersedia selama akun pengguna aktif, memungkinkan pengguna mengunduh kembali produk yang telah dibeli sesuai dengan kebijakan masa aktif yang berlaku. Penggunaan produk terikat pada ketentuan lisensi dasar yang melarang pendistribusian ulang tanpa izin atau penggunaan di luar batas lisensi yang telah ditetapkan pada masing-masing produk.
+
+KEBIJAKAN & KETENTUAN
+Platform menerapkan kebijakan bahwa produk digital yang telah diakses atau diunduh tidak dapat diajukan refund karena sifat produk yang tidak dapat ditarik kembali setelah distribusi. Hak cipta atas seluruh produk digital tetap dimiliki oleh kreator atau platform sesuai kesepakatan, dan pengguna hanya diberikan lisensi untuk penggunaan sesuai ketentuan.
+
+Pengguna bertanggung jawab penuh atas keamanan akun pribadi dan penggunaan aset digital yang telah dibeli. Platform tidak bertanggung jawab atas kerugian yang timbul akibat penyalahgunaan produk oleh pengguna atau pihak ketiga yang mendapatkan akses melalui kelalaian pengguna.
+
+SOP (STANDARD OPERATING PROCEDURE)
+SOP Registrasi Pengguna
+Pengguna mengisi formulir pendaftaran pada halaman registrasi.
+
+Sistem mengirimkan email konfirmasi untuk verifikasi identitas.
+
+Pengguna mengaktifkan akun melalui tautan yang dikirimkan.
+
+Pengguna melengkapi profil akun untuk keperluan transaksi.
+
+SOP Proses Pembelian
+Sistem mencatat permintaan produk saat pengguna menekan tombol beli.
+
+Generate Order ID unik untuk setiap transaksi.
+
+Sinkronisasi data pembelian ke sistem payment gateway untuk pembuatan tagihan.
+
+Menunggu sinyal notifikasi dari payment gateway mengenai status dana.
+
+SOP Penanganan Pembayaran Gagal
+Sistem menerima notifikasi kegagalan dari payment gateway.
+
+Sistem memperbarui status transaksi menjadi gagal secara otomatis.
+
+Mengirimkan notifikasi kepada pengguna mengenai kegagalan transaksi.
+
+Memberikan opsi kepada pengguna untuk mencoba kembali proses pembayaran.
+
+SOP Permintaan Refund
+Pengguna mengajukan permintaan melalui formulir bantuan dengan alasan yang jelas.
+
+Admin melakukan verifikasi apakah produk sudah diunduh atau diakses.
+
+Jika produk belum diakses dan permintaan sesuai kriteria, proses pengembalian dana diproses secara manual.
+
+Keputusan refund bersifat final berdasarkan tinjauan tim internal.
+
+SOP Akses Produk Digital
+Sistem mendeteksi status transaksi sukses dari payment gateway.
+
+Sistem secara otomatis membuka enkripsi akses pada dashboard pengguna.
+
+Tautan unduhan atau akses online dikirimkan secara paralel melalui email pembeli.
+
+Pencatatan log akses dilakukan untuk memantau distribusi produk.
+
+PERTANYAAN YANG SERING DIAJUKAN (FAQ)
+Apa fungsi payment gateway di platform ini?
+Payment gateway berfungsi sebagai sistem otomatis yang mengamankan transaksi dan melakukan verifikasi pembayaran secara real-time tanpa perlu konfirmasi manual.
+
+Mengapa harga produk digital bervariasi?
+Harga ditentukan berdasarkan kompleksitas materi, kualitas aset, lisensi yang diberikan, serta nilai manfaat yang ditawarkan oleh masing-masing produk digital.
+
+Bagaimana jika saya sudah bayar tetapi status masih pending?
+Tunggu beberapa menit untuk proses sinkronisasi sistem. Jika status tidak berubah dalam 15 menit, silakan hubungi layanan bantuan dengan menyertakan bukti bayar.
+
+Apakah saya bisa mengakses produk selamanya?
+Pada umumnya produk yang telah dibeli memberikan akses jangka panjang melalui dashboard, namun hal ini tetap mengikuti ketentuan masa aktif platform dan jenis lisensi produk tersebut.
+
+Dapatkan saya meminta refund untuk produk yang salah beli?
+Refund hanya dipertimbangkan jika produk belum diunduh atau diakses sama sekali, sesuai dengan kebijakan ketat mengenai distribusi produk digital yang berlaku di platform.
